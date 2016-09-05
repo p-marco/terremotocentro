@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Link utili
+description: In questa pagina sono elencati i link utili da seguire per tenersi aggiornati e collaborare.
 permalink: /link_utili/
 ---
 

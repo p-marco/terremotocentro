@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fabbisogni
+description: Questa pagina raccoglie le necessità ed i fabbisogni delle persone colpite dal terremoto. 
 permalink: /fabbisogni/
 ---
 {% assign fabbisogni = (site.data.fabbisogni | sort: 'Data') %}

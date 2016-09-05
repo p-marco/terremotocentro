@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vittime
+description: Questa pagina raccoglie l'elenco delle vittime del terremoto che il 24 agosto 2016 ha colpito il centro Italia.
 permalink: /vittime/
 ---
 

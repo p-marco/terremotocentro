@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fonti
+description: Questa pagina contiene l'elenco dei contatti delle Associazioni e degli Enti impiegati nelle operazioni di assistenza alla popolazione terremotata.
 permalink: /fonti/
 ---
 {% for member in site.data.contatti %}

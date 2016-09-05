@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Canali di comunicazione
+description: Canali di comunicazione, social network e link di Terremotocentroitalia.info
 permalink: /canali/
 ---
 

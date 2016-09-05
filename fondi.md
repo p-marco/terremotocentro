@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Raccolte Fondi
+description: Qui è possibile trovare l'elenco delle campagne di solidarietà e raccolta fondi.
 permalink: /fondi/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Alloggi
+description: Questa pagina raccoglie un elenco in evoluzione degli alloggi resi disponibili in seguito al clima emergenziale alla popolazione colpita dal terremoto.  
 permalink: /alloggi/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Segnala
+description: Pagina con lo scopo di raccogliere i contatti per segnalare necessità o comunicare aggiornamenti.
 permalink: /aiuto/
 ---
 <div class="segnala">

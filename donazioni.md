@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Risorse disponibili
+description: Elenco in costante evoluzione delle risorse disponibili per la popolazione colpita dal terremoto. 
 permalink: /risorse-disponibili/
 ---
 

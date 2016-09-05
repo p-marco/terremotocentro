@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bollettino
+description: Bollettino delle notizie del terremoto; interscambio informazioni e necessità da parte della popolazione colpita. 
 permalink: /bollettino/
 ---
 
