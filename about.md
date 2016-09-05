@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Portale no-profit di condivisione delle informazioni utili relative al terremoto che il 24 agosto 2016 ha colpito il centro Italia.
 permalink: /about/
 ---
 
